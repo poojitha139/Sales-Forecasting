@@ -4,6 +4,14 @@ A Data Science project that predicts future sales using historical sales data th
 
 ---
 
+🌐 Try the Application
+
+Live Streamlit App:
+
+https://sales-forecasting-4n9xw4iyax72hx9sen89y5.streamlit.app/
+
+
+
 ## 🚀 Project Overview
 
 Sales forecasting is a crucial business analytics task that helps organizations estimate future demand, optimize inventory, improve supply chain management, and make data-driven decisions.
